@@ -1,0 +1,8 @@
+models/
+__pycache__/
+*.pyc
+data/combined_data.csv
+combined_data.csv
+.gradio/
+.vscode/
+.conda/
